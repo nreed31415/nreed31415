@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nreed31415
 - 👀 I’m interested in all things science and technology. I love computers and what we can do with them!
-- 🌱 I’m currently learning Computer Engineering at BYU-I. 
+- 🌱 I’m currently studying Computer Engineering at BYU-I. 
 - 📫 How to reach me: nreed31415@gmail.com
 
 <!---
